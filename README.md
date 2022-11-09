@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GioeleCavallo
 - 👀 I’m interested in 
   * Web Development
+  * NodeJS
   * Java
   * Python
 <!---
