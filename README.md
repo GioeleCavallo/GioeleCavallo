@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GioeleCavallo
 - 👀 I’m interested in 
   * Web Development
-  * Plugins
+  * Music Plugins
   * NodeJS
   * Java
   * Python
